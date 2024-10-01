@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:D Fancy seeing you here. Be free to look through myh repos
+:D Fancy seeing you here. Be free to look through my repos
 <!--
 **Constellation2099/Constellation2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
