@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Constellation2099.Constellation2099&left_color=blueviolet&right_color=darkred&left_text=:)"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Constellation2099.Constellation2099&left_color=blueviolet&right_color=darkred&left_text=PROFILE%20VIEWERS%20:)"  />
 </div>
 
 ###
@@ -236,7 +236,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/736x/99/2e/ce/992eceb9ddfca10b99df4e332e8c7741.jpg"  />
+  <img height="500" src="https://i.pinimg.com/736x/99/2e/ce/992eceb9ddfca10b99df4e332e8c7741.jpg"  />
 </div>
 
 ###
