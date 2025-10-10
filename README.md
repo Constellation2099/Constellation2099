@@ -370,7 +370,6 @@
 </table>
 
 <br>
-###
 
 <h6 align="center">CONTRIBUTIONS</h6>
 
